@@ -50,6 +50,7 @@ Jira: [Go to Jira](https://jira2.cerner.com/browse/ACADEM-54613 "Openion Jira")
    - You will need to open the Java build path in your project
       - Under libaries click on JRE System Library and ensure JDK 11 is being used
       - Open Java compiler and ensure the compliance level is 11
+      
 ![alt text](https://github.com/illwill3314/practice/blob/master/common/images/Java_Build_Path.PNG)
 
 **Microsoft Visual Studio** 
@@ -58,7 +59,9 @@ Jira: [Go to Jira](https://jira2.cerner.com/browse/ACADEM-54613 "Openion Jira")
      - ASP.net and web development 
      - Azure development 
      - Node.js development
+     
 ![alt text](https://github.com/illwill3314/practice/blob/master/common/images/Visual_Studio_Workloads.PNG)
+
  - Add cloned project to space
    
 **Logger File**
@@ -82,7 +85,9 @@ Jira: [Go to Jira](https://jira2.cerner.com/browse/ACADEM-54613 "Openion Jira")
    - Expand Schemas 
    - Expand tables 
    - Right click on table you'd like to view and select view/edit data 
+   
    ![alt text](https://github.com/illwill3314/practice/blob/master/common/images/Database.PNG)
+   
 - Initial data is located in resources/db/migration in project files 
 - [Database Values](../blob/master/LICENSE)
    
@@ -90,13 +95,16 @@ Jira: [Go to Jira](https://jira2.cerner.com/browse/ACADEM-54613 "Openion Jira")
 - On back end: 
    - In Eclipse, run application.java 
       - Ensure that application starts up in the console 
-      ![alt text](https://github.com/illwill3314/practice/blob/master/common/images/Application_Started.PNG)
+      
+![alt text](https://github.com/illwill3314/practice/blob/master/common/images/Application_Started.PNG)
 
 - On front end: 
    - In Visual Studio, open the developer powershell at the bottom (command line) and navigate to the location of openion-ui in the Openion project
    - Then, type npm start
       - This should open up a new browser window running the application 
+      
 ![alt text](https://github.com/illwill3314/practice/blob/master/common/images/npm_start.PNG)
+
 - When you would like to restart the application, first make sure you end the program running on Eclipse. 
    - If you do not, you will have to manually close the port the application was using  
    
