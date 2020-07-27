@@ -15,7 +15,7 @@ Jira: [Go to Jira](https://jira2.cerner.com/browse/ACADEM-54613 "Openion Jira")
 **Java**
  - This project requires JDK 11: [[Download](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html "Java Download")]
 - In your system variables, add JAVA_HOME as the location of your saved Java JDK
-![](https://github.com/illwill3314/practice/blob/master/common/images/Environmental_Variables.PNG)
+![alt text](https://github.com/illwill3314/practice/blob/master/common/images/Enviromental_Variables.PNG)
 
 
 **Maven**
